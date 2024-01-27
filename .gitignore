@@ -1,0 +1,20 @@
+### Python ###
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+build/
+dist/
+lib/
+*.egg-info/
+MANIFEST
+
+# pipenv
+#Pipfile.lock
+
+# Virtual environments
+#*.env
+.env/
+.venv/
